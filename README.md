@@ -122,4 +122,3 @@ Testing base:
 ## [ ] Log in/register screens, password pages(Ensure you give the proper response message in case of errors).
 
 ## Unit-Testing
-## E2E-Testing
