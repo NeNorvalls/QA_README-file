@@ -71,7 +71,6 @@ Testing base:
 ### [ ] Data collection
 
 ## [ ] Media:
-### [ ] All videos are playable
 ### [ ] WebP or SVG format used where possible
 
 
@@ -83,7 +82,6 @@ Testing base:
 ### [ ] Site is usable while zoomed in
 ### [ ] Forms have labels
 ### [ ] Links are recognizable
-### [ ] Add captions to videos
 ### [ ] Provide an alternative for users with Javascript disabled
 ### [ ] Clear color contrast for colorblind people
 ### [ ] Use a logical structure(The “WAVE” Chrome extension helps a lot with this and other accessibility warnings)
